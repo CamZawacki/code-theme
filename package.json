@@ -1,0 +1,21 @@
+{
+  "name": "cambox",
+  "displayName": "cambox",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "cambox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cambox-color-theme.json"
+      }
+    ]
+  }
+}
