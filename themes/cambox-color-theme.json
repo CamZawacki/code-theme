@@ -1,10 +1,10 @@
 {
 	"name": "cambox",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#32302f",
+		"editor.foreground": "#cccccc",
+		"activityBarBadge.background": "#516762",
+		"sideBarTitle.foreground": "#7c6f64"
 	},
 	"tokenColors": [
 		{
