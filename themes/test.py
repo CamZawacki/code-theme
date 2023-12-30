@@ -2,6 +2,11 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+
+# TODO: Adjust for better contrast
+# 
+
+
 n = 100
 
 np.random.seed(1)
